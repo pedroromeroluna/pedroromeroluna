@@ -2,9 +2,9 @@
 
 **Product Leader · Group Product Manager — transactional products across LATAM**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romeroluna)
-[![Product Hub](https://img.shields.io/badge/Product%20Hub-FF5A1F?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.producthub.com.ar)
-[![Prego Tech](https://img.shields.io/badge/Prego%20Tech-111827?style=for-the-badge&logo=rocket&logoColor=white)](https://www.prego.la)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0075FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romeroluna)
+[![Product Hub](https://img.shields.io/badge/Product%20Hub-0075FF?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.producthub.com.ar)
+[![Prego Tech](https://img.shields.io/badge/Prego%20Tech-0075FF?style=for-the-badge&logo=rocket&logoColor=white)](https://www.prego.la)
 
 I build products where the math has to be right: promotions, lending, billing, scoring. Thirteen
 years shipping digital products, six of them leading squads. At **Mercado Libre** I ran Marketplace
