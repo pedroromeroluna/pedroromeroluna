@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0075FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romeroluna)
 [![Product Hub](https://img.shields.io/badge/Product%20Hub-0075FF?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.producthub.com.ar)
 [![Prego Tech](https://img.shields.io/badge/Prego%20Tech-0075FF?style=for-the-badge&logo=rocket&logoColor=white)](https://www.prego.la)
+[![Subio La Vara](https://img.shields.io/badge/Subi%C3%B3%20La%20Vara-0075FF?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLR280N6Ngf66KiUWm4wtcG52jffEcVZRg)
 
 I build products where the math has to be right: promotions, lending, billing, scoring. Thirteen
 years shipping digital products, six of them leading squads. At **Mercado Libre** I ran Marketplace
