@@ -1,6 +1,6 @@
 # Pedro Romero Luna
 
-**Product Leader · Group Product Manager — transactional products across LATAM**
+**Experienced Product Leader | AI Educator | Academic Director at Product Hub**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0075FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romeroluna)
 [![Product Hub](https://img.shields.io/badge/Product%20Hub-0075FF?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.producthub.com.ar)
